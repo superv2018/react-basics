@@ -1,0 +1,19 @@
+* {
+  box-sizing: border-box;
+}
+
+.App {
+  text-align: center;
+}
+
+h3 { text-align: center;}
+
+.app {
+  border: 2px solid green;
+  width: 240px;
+  height: 400px;
+  padding: 20px;
+  display: inline-block;
+  margin: 20px;
+  border-radius: 10px;
+  }
